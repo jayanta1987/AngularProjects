@@ -23,9 +23,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.css"
-            ],
+            "styles": [],
             "scripts": []
           },
           "configurations": {
@@ -87,9 +85,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.css"
-            ],
+            "styles": [],
             "scripts": []
           }
         },
@@ -119,6 +115,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "impulgo"
+    }
+  },
+  "defaultProject": "impulgo",
+  "cli": {
+    "analytics": "6be6fc6e-cf6e-4b3d-855b-594970c1ddf2"
+  }
 }
